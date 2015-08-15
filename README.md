@@ -1,2 +1,2 @@
 # github-experiments
-A repository for exerimenting with git and github
+A repository for experimenting with git and github
