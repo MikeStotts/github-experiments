@@ -7,5 +7,6 @@ Experimental tasks intended to learn, paactice and expermint with git and githb.
     Task: Add a directory thru the web interface
     Task: Clone repository to local machine from github
     Task: Import repository from local machine to github
+    Task: Commit to a branch
 
 
